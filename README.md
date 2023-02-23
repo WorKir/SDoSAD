@@ -1,4 +1,5 @@
 # Slow DDoS Attack Detector
+Detection a slow DDoS attacks in DataFlow traffic dumps
 
 ## Description
 This document was created to describe the use of the "Slow DDoS Attack Detector" program (hereinafter - the Program). The program makes it possible to determine from which IP addresses a slow denial of service attack occurred by analyzing TCP flows.
