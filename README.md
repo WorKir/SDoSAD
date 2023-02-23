@@ -43,7 +43,7 @@ python3 SDoSAD.py -f <file.csv> -l <limits.csv>
 5. You can also use the [-i] or [--info] flag to display additional information on the addresses found:
 ```bash
 python3 SDoSAD.py -f <file.csv> -l <limits.csv> -info
+```
 
 ## Test dataset
 The Datasets.zip archive contains files with datasets on which the program was tested. It includes normal traffic and normal+malicious
-```
